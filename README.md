@@ -1,2 +1,2 @@
 # UniversalUnitConverter
-Small school project I made to converts units.
+Small school project I made to convert units.
